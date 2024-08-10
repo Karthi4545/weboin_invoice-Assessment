@@ -8,8 +8,8 @@ print("Initial DataFrame:")
 print(df)
 
 # 3. Filter students who have a grade of 'A'
-# df_subset = df.iloc[:10, :90]
-weboin_invoice = df.iloc[:13, :35]
+
+weboin_invoice = df.iloc[:13, :90]
 
 print("\nweboin_invoice:")
 print(weboin_invoice)
